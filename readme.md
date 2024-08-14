@@ -11,9 +11,7 @@
 演示地址：[https://fu.gitapp.cn](https://fu.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_fu
 
 
 ## 主要功能
